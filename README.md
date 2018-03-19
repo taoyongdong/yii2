@@ -1,2 +1,2 @@
 # yii2
-composer了rides和EasyWeChat
+composer了rediss和EasyWeChat
