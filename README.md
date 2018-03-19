@@ -1,2 +1,2 @@
 # yii2
-composer了rediss和EasyWeChat
+composer了redis和EasyWeChat
